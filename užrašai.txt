@@ -1,0 +1,2 @@
+Testuojamas gitignore
+Ar veikia bent kartais? 
